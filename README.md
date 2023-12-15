@@ -24,22 +24,37 @@ End the program and close the output image windows.
 use cv2.COLOR_BGR2RGB to convert BGR to RGB
 
 ### Step7:
-<br>
+use cv2.COLOR_BGR2HSV to convert BGR to HSV
 
 ### Step8:
-<br>
+use cv2.COLOR_RGB2HSV to convert RGB to HSV
 
 ### Step9:
-<br>
+use cv2.COLOR_BGR2GRAY to convert BGR to GRAY
 
 ### Step10:
-<br>
+use cv2.COLOR_RGB2GRAY to convert RGB to GRAY
+
+### Step11:
+Display the original BGR image
+
+###Step12:
+Display the HSV image (BGR and RGB converted)
+
+###Step13:
+Display the Grayscale image (BGR and RGB converted)
+
+
 ## Program:
+
 ### Developed By:
+
 ### Register Number: 
+
 i) #To Read,display the image
 ```
-  
+
+
 
 ```
 ii) #To write the image
@@ -68,31 +83,35 @@ v) #To cut and paste portion of image
 
 ```
 vi)#Convert BGR and RGB to HSV and GRAY
+```python3
 
 
 
-
-
+```
 vii)#Convert HSV to RGB and BGR
+```python3
 
 
 
-
+```
 viii)#Convert RGB and BGR to YCrCb
+```python3
 
 
 
-
+```
 ix)#Split and Merge RGB Image
+```python3
 
 
 
-
+```
 x)#Split and merge HSV Image
+```python3
 
 
 
-
+```
 ```
 
 ## Output:
@@ -113,29 +132,37 @@ x)#Split and merge HSV Image
 <br>
 
 ### iv)Access rows and columns
+
 <br>
 <br>
 
 ### v)Cut and paste portion of image
+
 <br>
 <br>
+
 ### vi) BGR and RGB to HSV and GRAY
+
 <br>
 <br>
 
 ### vii) HSV to RGB and BGR
+
 <br>
 <br>
 
 ### viii) RGB and BGR to YCrCb
+
 <br>
 <br>
 
 ### ix) Split and merge RGB Image
+
 <br>
 <br>
 
 ### x) Split and merge HSV Image
+
 <br>
 <br>
 
