@@ -22,6 +22,7 @@ Use imwrite(filename, image) to write the image.
 End the program and close the output image windows.
 ### Step6:
 <br>
+use cv2.COLOR_BGR2RGB to convert BGR to RGB
 
 ### Step7:
 <br>
