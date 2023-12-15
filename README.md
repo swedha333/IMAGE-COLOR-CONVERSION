@@ -38,10 +38,10 @@ use cv2.COLOR_RGB2GRAY to convert RGB to GRAY
 ### Step11:
 Display the original BGR image
 
-###Step12:
+### Step12:
 Display the HSV image (BGR and RGB converted)
 
-###Step13:
+### Step13:
 Display the Grayscale image (BGR and RGB converted)
 
 
