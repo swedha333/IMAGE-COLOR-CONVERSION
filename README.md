@@ -1,5 +1,4 @@
 # IMAGE-COLOR-CONVERSION
-# READ AND WRITE AN IMAGE
 ## AIM
 To write a python program using OpenCV to do the following image manipulations.
 i) Read, display, and write an image.
