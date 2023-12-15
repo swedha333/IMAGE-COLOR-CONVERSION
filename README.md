@@ -10,15 +10,15 @@ iv)To perform the color conversion between RGB, BGR, HSV, and YCbCr color models
 Anaconda - Python 3.7
 ## Algorithm:
 ### Step1:
-Choose an image and save it as a filename.jpg
+Choose an image and save it as a filename.jpg,Use imread(filename, flags) to read the file,Use imshow(window_name, image) to display the image.
 ### Step2:
-Use imread(filename, flags) to read the file.
-### Step3:
-Use imshow(window_name, image) to display the image.
-### Step4:
 Use imwrite(filename, image) to write the image.
+### Step3:
+Save the saved image to a new file
+### Step4:
+Accessing rows and Columns
 ### Step5:
-End the program and close the output image windows.
+Cut and paste the image
 ### Step6:
 use cv2.COLOR_BGR2RGB to convert BGR to RGB
 
